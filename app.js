@@ -5,7 +5,6 @@ ctx.canvas.height = window.innerHeight;
 
 let array = [];
 const colors = ["rgb(135, 216, 209)", "rgb(78, 128, 128)", "rgb(76, 152, 189)"];
-
 const maxSize = 40;
 const minSize = 0;
 const mouseRadius = 60;
